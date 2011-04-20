@@ -1,9 +1,9 @@
 # testing new md
 
 hi|how|are|you
---------------
-I |am | good|
---------------
+--|---|---|---
+I |am | good|ok
+
 
 
 
